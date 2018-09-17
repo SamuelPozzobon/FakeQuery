@@ -1,0 +1,14 @@
+name: FakeQuery
+main: FakeQuery\Main
+author: Klaus
+version: 1.4.3
+api: [3.2.3]
+commands:
+ smaxc:
+  description: "set max player count"
+  usage: "/smaxc"
+  permission: op
+ sminc:
+  description: "set min player count"
+  usage: "/sminc"
+  permission: op
