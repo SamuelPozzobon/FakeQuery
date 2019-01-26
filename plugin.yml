@@ -2,7 +2,7 @@ name: FakeQuery
 main: FakeQuery\Main
 author: Klaus
 version: 1.4.3
-api: [3.5.0]
+api: [3.0.0]
 commands:
  smaxc:
   description: "set max player count"
